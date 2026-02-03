@@ -28,7 +28,7 @@ week03/
 
 1. AWS CLI installed and configured
 2. AWS SAM CLI installed
-3. Python 3.9 or later
+3. Python 3.12 or later
 
 ### Installing SAM CLI
 
